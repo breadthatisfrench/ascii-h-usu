@@ -1,0 +1,9 @@
+# This file ignores all compiler generated files by PyCharm
+.idea/
+out/
+*.pyc
+__pycache__/
+
+# Other stuff
+*.zip
+*.out
